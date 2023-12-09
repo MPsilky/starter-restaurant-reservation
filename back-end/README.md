@@ -8,11 +8,8 @@ The "Restaurant Reservation App" is a sophisticated solution for managing restau
 
 ## Live Application
 
- ○ Backend: [Restaurant Reservations Backend](https://restaurant-reservations-capstone-b.onrender.com)
- ○ Frontend: [Restaurant Reservations Frontend](https://restaurant-reservations-capstone-f.onrender.com)
-
-{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
-{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+ > Backend: [Restaurant Reservations Backend](https://restaurant-reservations-capstone-b.onrender.com)
+ ∞ Frontend: [Restaurant Reservations Frontend](https://restaurant-reservations-capstone-f.onrender.com)
 
 ## Application Screenshots
 
