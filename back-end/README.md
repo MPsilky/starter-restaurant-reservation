@@ -9,6 +9,9 @@ This is the frontend part of my, "Restaurant Reservation App" which is built wit
 - Comprehensive API endpoints for reservations and table management.
 - Secure request processing with validation and error handling.
 
+ > Backend: [Restaurant Reservations Backend](https://restaurant-reservations-capstone-b.onrender.com)
+ > Frontend: [Restaurant Reservations Frontend](https://restaurant-reservations-capstone-f.onrender.com)
+
 ## Installation
 
 1. Clone the repository.
@@ -18,11 +21,7 @@ This is the frontend part of my, "Restaurant Reservation App" which is built wit
 
 ## API Documentation
 
-This document provides an overview of the back-end functionalities, API endpoints, and instructions for setup and execution.
-
-## Base URL
-
-The base URL for all API requests is `https://restaurant-reservations-capstone-b.onrender.com`.
+- This document provides an overview of the back-end functionalities, API endpoints, and instructions for setup and execution. 
 
 ## Endpoints
 
@@ -120,4 +119,4 @@ The base URL for all API requests is `https://restaurant-reservations-capstone-b
 
 ### Note
 
-  • 
+> For more in depth [README.md](https://github.com/Thinkful-Ed/starter-restaurant-reservation/blob/main/README.md) with the structure and initial frameworkbehind the application.
