@@ -116,6 +116,4 @@ This is the frontend part of my, "Restaurant Reservation App" which is built wit
 }
 
 ### Note
-
-> For more in depth [README.md](https://github.com/Thinkful-Ed/starter-restaurant-reservation/blob/main/README.md) with the structure and initial frameworkbehind the application.
-
+ ♦ For more in depth [README.md](https://github.com/Thinkful-Ed/starter-restaurant-reservation/blob/main/README.md) with the structure and initial frameworkbehind the application.
