@@ -7,8 +7,9 @@ This is the frontend part of my, "Restaurant Reservation App" which is built wit
 - Comprehensive API endpoints for reservations and table management.
 - Secure request processing with validation and error handling.
 
-  Backend: [Restaurant Reservations Backend](https://restaurant-reservations-capstone-b.onrender.com) 
-  Frontend: [Restaurant Reservations Frontend](https://restaurant-reservations-capstone-f.onrender.com) 
+  • Backend: [Restaurant Reservations Backend](https://restaurant-reservations-capstone-b.onrender.com) 
+
+  • Frontend: [Restaurant Reservations Frontend](https://restaurant-reservations-capstone-f.onrender.com) 
 
 ## Installation
 
@@ -117,5 +118,6 @@ This is the frontend part of my, "Restaurant Reservation App" which is built wit
 ```
 
 ### Note
- *For a more in depth (onClick)---> [README.md](https://github.com/Thinkful-Ed/starter-restaurant-reservation/blob/main/README.md) <--- 
+
+ - For a more in depth (onClick)---> [README.md](https://github.com/Thinkful-Ed/starter-restaurant-reservation/blob/main/README.md) <--- 
  - It comes with the structure and initial framework behind the application.
