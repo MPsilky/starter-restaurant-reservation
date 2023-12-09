@@ -1,17 +1,17 @@
-                                                        # Restaurant Reservation App
+# Restaurant Reservation App
 
 The "Restaurant Reservation App" is a sophisticated solution for managing restaurant reservations and table allocations efficiently. Designed to cater to both restaurant staff and customers, this application streamlines the reservation process, offering a user-friendly interface and real-time data management.
 
 ♦ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ♦
 
-                                                           ## Live Application
+## Live Application
 
  ○ Backend: [Restaurant Reservations Backend](https://restaurant-reservations-capstone-b.onrender.com)
  ○ Frontend: [Restaurant Reservations Frontend](https://restaurant-reservations-capstone-f.onrender.com)
 
 ♦ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ♦
 
-                                                         ## Application Screenshots
+## Application Screenshots
 
 Here are aUser Story 1 - Create and List Reservations
 ![US-01 Submit After](/front-end/screenshots/us-01-submit-after.png)
@@ -45,7 +45,7 @@ Feel free to use these descriptions in your documentation to provide a comprehen
 
 ♦ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ♦
 
-                                                              ## Summary
+## Summary
 
 My application allows users to:
 
@@ -58,7 +58,7 @@ This system is a boon for restaurant operators, easing the management burden and
 
 ♦ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ♦
 
-                                                            ## Technology Used
+## Technology Used
 
     - Frontend: React, Bootstrap, HTML, CSS, JavaScript.
     - Backend: Node.js, Express, PostgreSQL.
@@ -66,7 +66,7 @@ This system is a boon for restaurant operators, easing the management burden and
 
 ♦ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ♦
 
-                                                        ## Installation Instructions
+## Installation Instructions
 
 To set up the project locally, follow these steps:
 
@@ -77,7 +77,7 @@ To set up the project locally, follow these steps:
 
 ♦ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ♦
 
-                                                                 ## Notes
+## Notes
 
 • Refer to `README.md` files in the frontend and backend sections for further details each.
 
